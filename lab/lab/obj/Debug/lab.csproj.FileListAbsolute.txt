@@ -1,0 +1,7 @@
+C:\Users\naxol\Desktop\municipality-library-naxolorca\lab\lab\bin\Debug\lab.exe.config
+C:\Users\naxol\Desktop\municipality-library-naxolorca\lab\lab\bin\Debug\lab.exe
+C:\Users\naxol\Desktop\municipality-library-naxolorca\lab\lab\bin\Debug\lab.pdb
+C:\Users\naxol\Desktop\municipality-library-naxolorca\lab\lab\obj\Debug\lab.csprojAssemblyReference.cache
+C:\Users\naxol\Desktop\municipality-library-naxolorca\lab\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
+C:\Users\naxol\Desktop\municipality-library-naxolorca\lab\lab\obj\Debug\lab.exe
+C:\Users\naxol\Desktop\municipality-library-naxolorca\lab\lab\obj\Debug\lab.pdb

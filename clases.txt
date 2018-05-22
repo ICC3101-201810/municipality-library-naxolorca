@@ -1,0 +1,94 @@
+Address
+----------
+
+Void .ctor(System.String, Int32, System.String, System.String, ClassLibrary1.Person, Int32, Int32, Int32, Boolean, Boolean)
+Street   String
+Number   Int32
+Commune   String
+City   String
+Year_of_contruction   Int32
+Bedrooms   Int32
+Bathrooms   Int32
+Backyard   Boolean
+----------
+
+get_Street   Address   String
+get_Number   Address   Int32
+get_Commune   Address   String
+get_City   Address   String
+get_Year_of_contruction   Address   Int32
+get_Bedrooms   Address   Int32
+get_Bathrooms   Address   Int32
+get_Backyard   Address   Boolean
+changeOwner   Address   Void
+addBeedrooms   Address   Boolean
+addBathrooms   Address   Boolean
+ToString   Object   String
+Equals   Object   Boolean
+GetHashCode   Object   Int32
+GetType   Object   Type
+
+Car
+----------
+
+Void .ctor(System.String, System.String, Int32, ClassLibrary1.Person, System.String, Int32, Boolean)
+Brand   String
+Model   String
+Year   Int32
+License_plate   String
+Seatbelts   Int32
+Diesel   Boolean
+----------
+
+get_Brand   Car   String
+get_Model   Car   String
+get_Year   Car   Int32
+get_License_plate   Car   String
+get_Seatbelts   Car   Int32
+get_Diesel   Car   Boolean
+giveUpOwnershipToThirdParty   Car   Void
+ToString   Object   String
+Equals   Object   Boolean
+GetHashCode   Object   Int32
+GetType   Object   Type
+
+Class1
+----------
+
+Void .ctor()
+----------
+
+ToString   Object   String
+Equals   Object   Boolean
+GetHashCode   Object   Int32
+GetType   Object   Type
+
+Person
+----------
+
+Void .ctor(System.String, System.String, System.DateTime, ClassLibrary1.Address, System.String, ClassLibrary1.Person, ClassLibrary1.Person)
+First_name   String
+Last_name   String
+Birth_date   DateTime
+Alma_mater   String
+Professional_degree   String
+Rut   String
+----------
+
+get_First_name   Person   String
+get_Last_name   Person   String
+get_Birth_date   Person   DateTime
+get_Alma_mater   Person   String
+get_Professional_degree   Person   String
+get_Rut   Person   String
+changeFirstName   Person   Void
+changeLastName   Person   Void
+giveUpOwnershipToThirdParty   Person   Void
+getAdopted   Person   Boolean
+getAdopted   Person   Boolean
+getAbandoned   Person   Void
+setEducation   Person   Boolean
+ToString   Object   String
+Equals   Object   Boolean
+GetHashCode   Object   Int32
+GetType   Object   Type
