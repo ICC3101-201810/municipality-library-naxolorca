@@ -1,0 +1,2 @@
+En el consructor de Persona se piden a dos Personas esto no puede ser,luego para crear una direccion se 
+necesita una persona,pero la persona tambien necesita direccion esto genera un ciclo.
